@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ayduma.es/sitemap.xml
